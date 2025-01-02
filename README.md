@@ -17,7 +17,7 @@ A Flappy Gáborbá Electron keretrendszerrel.
     
     Nyisd meg a terminált, és futtasd a következő parancsot:
     
-    git clone git@github.com:Rexolt/FlappyGaborbaV2.git
+    git clone https://github.com/Rexolt/FlappyGaborbaV2.git
     cd FlappyGaborbaV2
                 
     
